@@ -19,21 +19,22 @@
 
 ## Project Explanation:
 IPL Tree database contains 8 tables.
-1. player
-- ![player](https://github.com/anuprshetty/IPL-Tree/blob/main/images/player_table.png)
-3. team
+<!--- Use 2 SPACEs at the end of a line for line break(\n). -->
+1. player  
+![player](https://github.com/anuprshetty/IPL-Tree/blob/main/images/player_table.png)
+3. team  
 ![team](https://github.com/anuprshetty/IPL-Tree/blob/main/images/team_table.png)
-5. owner
+5. owner  
 ![owner](https://github.com/anuprshetty/IPL-Tree/blob/main/images/owner_table.png)
-7. coach
+7. coach  
 ![coach](https://github.com/anuprshetty/IPL-Tree/blob/main/images/coach_table.png)
-9. c_match (Current match)
+9. c_match (Current match)  
 ![c_match](https://github.com/anuprshetty/IPL-Tree/blob/main/images/c_match_table.png)
-11. venue
+11. venue  
 ![venue](https://github.com/anuprshetty/IPL-Tree/blob/main/images/venue_table.png)
-12. individual_score (A player's score in a perticular match)
+12. individual_score (A player's score in a perticular match)  
 ![individual_score](https://github.com/anuprshetty/IPL-Tree/blob/main/images/individual_score_table.png)
-14. total_score (A player's total score in all the matches)
+14. total_score (A player's total score in all the matches)  
 ![total_score](https://github.com/anuprshetty/IPL-Tree/blob/main/images/total_score_table.png)
 
 ## Normalization:
@@ -49,4 +50,4 @@ IPL Tree database contains 8 tables.
 - [LinkedIn](https://www.linkedin.com/in/anuprshetty/)
 - [HackerRank](https://www.hackerrank.com/anuprshetty)
 
-[Back To The Top](#IPL Tree)
+[Back To The Top](#IPL-Tree)
