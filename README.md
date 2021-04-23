@@ -1,6 +1,6 @@
 # IPL Tree
-**IPL Tree** is a relational database system which helps to store and retrieve *Indian Premier League* data.
-*Normalization techniques* are applied on this relational database model to minimize the redundancy in the database tables.
+**IPL Tree** is a relational database system which helps to store and retrieve ***Indian Premier League*** data.
+***Normalization techniques*** are applied on this relational database model to minimize the redundancy in the database tables.
 
 ## E-R Model:
 **Entity-Relationship model** for IPL Tree database.
@@ -20,7 +20,7 @@
 ## Project Explanation:
 IPL Tree database contains 8 tables.
 1. player
-![player](https://github.com/anuprshetty/IPL-Tree/blob/main/images/player_table.png)
+- ![player](https://github.com/anuprshetty/IPL-Tree/blob/main/images/player_table.png)
 3. team
 ![team](https://github.com/anuprshetty/IPL-Tree/blob/main/images/team_table.png)
 5. owner
