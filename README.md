@@ -84,9 +84,9 @@ Determinants of all the non-trivial functional dependencies in **player_p3nf** t
 - Hands-on experience of working with MySQL Server, MySQL Workbench and MySQL Command Line Client.
 - Designing efficient relational database model.
 - Constraints of relational model such as domain, key, entity integrity and referential integrity constraints.
-- Hands-on experience on SQL langauges such as DDL, DML.
+- Hands-on experience on SQL languages such as DDL, DML.
 - Functional dependencies and normalization techniques.
-- Understanding the usage and importance of indexing, B trees and B+ Trees in relational database tables.
+- Understanding the usage and importance of indexing, B trees and B+ trees in relational database tables.
 
 ## References:
 - [MySQL official website](https://www.mysql.com/)
