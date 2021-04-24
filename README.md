@@ -13,7 +13,7 @@
 - MySQL Server
 - MySQL Workbench
 - MySQL Command Line Client
-- MySQL query langauge
+- MySQL query language
 
 ## Database Setup:
 - Install MySQL Server and MySQL Workbench.
