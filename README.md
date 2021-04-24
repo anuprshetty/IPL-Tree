@@ -81,7 +81,7 @@ Determinants of all the non-trivial functional dependencies in **player_p3nf** t
 - **IPL Tree** database system can be integrated with a web service so that user can easily interact with IPL data using web user interface.
 
 ## What I Learnt?
-- Hands-on experience of working with MySQL Server and MySQL Workbench.
+- Hands-on experience of working with MySQL Server, MySQL Workbench and MySQL Command Line Client.
 - Designing efficient relational database model.
 - Constraints of relational model such as domain, key, entity integrity and referential integrity constraints.
 - Hands-on experience on SQL langauges such as DDL, DML.
