@@ -38,6 +38,14 @@ IPL Tree database contains 8 tables.
 ![total_score](https://github.com/anuprshetty/IPL-Tree/blob/main/images/total_score_table.png)
 
 ## Normalization:
+Normalization is the process of minimizing redundancy from a relation or set of relations in a database.
+
+### First Normal Form (1NF):
+*If the table is flat, i.e., no composite and multivalued attributes, then we say that the relation is in 1NF.*
+
+**player** table contains a multivalued attribute **role**. So **player** table is not in 1NF.  
+*Conversion of **player** table to 1NF:*  
+![1NF Conversion](https://github.com/anuprshetty/IPL-Tree/blob/main/images/1nf_conversion.png)
 
 ## Future Improvements:
 
