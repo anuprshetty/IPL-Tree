@@ -12,6 +12,7 @@
 ## Tools and Technologies Used:
 - MySQL Server
 - MySQL Workbench
+- MySQL Command Line Client
 - MySQL query langauge
 
 ## Database Setup:
