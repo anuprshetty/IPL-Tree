@@ -85,7 +85,7 @@ Determinants of all the non-trivial functional dependencies in **player_p3nf** t
 - Designing efficient relational database model.
 - Constraints of relational model such as domain, key, entity integrity and referential integrity constraints.
 - Hands-on experience on SQL languages such as DDL, DML.
-- Functional dependencies and normalization techniques.
+- Functional dependencies and lossless decomposition of tables based on normalization techniques.
 - Understanding the usage and importance of indexing, B trees and B+ trees in relational database tables.
 
 ## References:
