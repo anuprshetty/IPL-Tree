@@ -6,7 +6,7 @@
 **Entity-Relationship model** for IPL Tree database.
 ![Entity-Relationship model](https://github.com/anuprshetty/IPL-Tree/blob/main/images/ipl_tree_schema.PNG)
 
-**Attribute symbols**
+**Attribute symbols**  
 ![Attribute symbols](https://github.com/anuprshetty/IPL-Tree/blob/main/images/attribute_symbols.PNG)
 
 ## Tools and Technologies:
