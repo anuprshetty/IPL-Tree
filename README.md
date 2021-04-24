@@ -9,9 +9,10 @@
 ### Attribute symbols  
 ![Attribute symbols](https://github.com/anuprshetty/IPL-Tree/blob/main/images/attribute_symbols.PNG)
 
-## Tools and Technologies:
+## Tools and Technologies Used:
 - MySQL Server
 - MySQL Workbench
+- MySQL query langauge
 
 ## Database Setup:
 - Install MySQL Server and MySQL Workbench.
