@@ -55,7 +55,7 @@ Normalization is the process of minimizing redundancy from a relation or set of 
 ### Second Normal Form (2NF):
 *A relation R is in 2NF if and only if*
 - *R is in 1NF*
-- *There is no partial dependency of a non-prime attribute to any key of R*
+- *There is no partial dependency of a non-prime attribute to any key of R.*
 
 **player_1nf** table has primary key **(p_id, role)**. But all the non-prime attributes of **player_1nf** table are partially dependent on **p_id**. So **player_1nf** table is not in 2NF.  
 ***Conversion of player_1nf table to 2NF:***  
